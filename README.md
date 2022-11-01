@@ -5,7 +5,7 @@ Hi there! 👋
 
 <h3>Currently learning</h3>
 <ul>
-  <li>🧠  Flutter</li>
+  <li>🧠  React Native</li>
 </ul>
 <h3>Things I code with</h3>
 <p>
