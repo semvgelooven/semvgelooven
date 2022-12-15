@@ -53,12 +53,14 @@ Hi there! 👋
 <h3>Tools I work with</h3>
 <p>
   <img alt="Sketch" src="https://img.shields.io/badge/-Sketch-fbae01?style=flat-square&logo=sketch&logoColor=white" />
+  <img alt="Invision" src="https://img.shields.io/badge/-Invision-ff3366?style=flat-square&logo=invision&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-f24e1e?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-021833?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-300000?style=flat-square&logo=adobeillustrator&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-3fa7eb?style=flat-square&logo=visualstudio&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-2292e9?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-93c756?style=flat-square&logo=androidstudio&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
 <h3>Socials</h3>
