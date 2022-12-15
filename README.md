@@ -17,7 +17,7 @@ Hi there! 👋
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=323330" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1568ae?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React_Native-61DBFB?style=flat-square&logo=react&logoColor=white />
+  <img alt="React" src="https://img.shields.io/badge/-React_Native-61DBFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
 
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-36b7f0?style=flat-square&logo=tailwindcss&logoColor=white" />
