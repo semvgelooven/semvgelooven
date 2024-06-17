@@ -19,7 +19,7 @@ Hi there! 👋
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DBFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
 
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-36b7f0?style=flat-square&logo=tailwindcss&logoColor=white" />
