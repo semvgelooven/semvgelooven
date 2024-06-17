@@ -17,7 +17,9 @@ Hi there! 👋
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&logo=Javascript&logoColor=323330" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-1568ae?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React_Native-61DBFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DBFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
 
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwindcss-36b7f0?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -46,8 +48,8 @@ Hi there! 👋
   
   <img alt="ESLint" src="https://img.shields.io/badge/-ESlint-4930bd?style=flat-square&logo=EsLint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
    
-  
 </p>
 
 <h3>Tools I work with</h3>
@@ -61,6 +63,10 @@ Hi there! 👋
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-2292e9?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android_Studio-93c756?style=flat-square&logo=androidstudio&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-4945ff?style=flat-square&logo=strapi&logoColor=white" />
+  <img alt="Sanity" src="https://img.shields.io/badge/-Sanity-f36458?style=flat-square&logo=sanity&logoColor=white" />
+  <img alt="Statamic" src="https://img.shields.io/badge/-Sanity-ff259e?style=flat-square&logo=statamic&logoColor=white" />
+  <img alt="Statamic" src="https://img.shields.io/badge/-Digital_Ocean-0169ff?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 <h3>Socials</h3>
