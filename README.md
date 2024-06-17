@@ -65,8 +65,8 @@ Hi there! 👋
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo&logoColor=white" />
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-4945ff?style=flat-square&logo=strapi&logoColor=white" />
   <img alt="Sanity" src="https://img.shields.io/badge/-Sanity-f36458?style=flat-square&logo=sanity&logoColor=white" />
-  <img alt="Statamic" src="https://img.shields.io/badge/-Sanity-ff259e?style=flat-square&logo=statamic&logoColor=white" />
-  <img alt="Statamic" src="https://img.shields.io/badge/-Digital_Ocean-0169ff?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="Statamic" src="https://img.shields.io/badge/-Statamic-ff259e?style=flat-square&logo=statamic&logoColor=white" />
+  <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-0169ff?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 <h3>Socials</h3>
