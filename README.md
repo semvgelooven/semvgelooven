@@ -5,6 +5,7 @@ Hi there! 👋
 
 <h3>Currently learning</h3>
 <ul>
+  <li>🧠  Laravel</li>
   <li>🧠  React Native</li>
 </ul>
 <h3>Things I code with</h3>
